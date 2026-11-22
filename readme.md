@@ -1,4 +1,4 @@
-# :earth_africa: aws-regions
+# aws-regions <img src="docs/img/logo.svg" align="right" height="130" alt="" />
 
 Scala micro library for AWS regions.
 
